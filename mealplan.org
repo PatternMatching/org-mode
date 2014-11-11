@@ -68,16 +68,7 @@
 ** Lunch
 + Kisling's Wings
 ** Dinner
-+ Tom Kha Gai
-  + Coconut Milk
-  + Lemongrass
-  + Thai bird chilies
-  + Shredded Chicken
-  + Shitake Mushrooms
-  + Fish Sauce
-  + Lime
-  + Green Onion
-  + Cilantro
++ My Thai
 * Mon Nov 10, 2014
 ** Breakfast
 + Intermittent Fast/Coffee
@@ -97,11 +88,13 @@
 ** Breakfast
 ** Lunch
 ** Dinner
++ Burgers w/ Mushrooms Provencale Style
++ Parsnip Fries
 * Thurs Nov 13, 2014
 ** Breakfast
 ** Lunch
 ** Dinner
-
++ Beef Liver and Onions
 * Fri Nov 14, 2014
 ** Breakfast
 ** Lunch
@@ -124,3 +117,8 @@
   + Balsalmic Vinegar
   + Fresh Basil
 + Kale and Acorn Squash Salad (Kresser Week 1)
+* Sat Nov 15, 2014
+** Breakfast
+** Lunch
+** Dinner
++ Texas Style Beef Brisket
