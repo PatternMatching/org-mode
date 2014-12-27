@@ -1,0 +1,191 @@
+#+TITLE: Initial Cottage Meeting Notes
+#+AUTHOR: phennings@gmail.com
+#+DATE: 12/27/14
+
+* Objectives
+
+  We would like to come to a consensus on how to transition portions of
+  the overhead that goes along with managing the cottage to the children
+  in light of Mom and Dad's move out to Washington.
+
+  Trevor: delegation of duties
+
+** Marketing
+** FP&A
+** Operations
+
+* Individual Visions
+
+** Mom
+
+   Things in the house that she perceives as being shortcomings in the
+   context of the prospective female renter's view.  Point being that
+   there is potential additional revenue being left on the table.
+   Rates could viably go up if improvements made.
+
+   Would like to see some projects undertaken, potentially using a
+   loan, to improve above:
+
+   + Take out tub in the upstairs bathroom and put in a shower stall.
+     In doing so, you open up the bathroom space and can function more
+     effectively.
+   + New garage.  Current garage is an eyesore and takes away from the
+     home as a whole.  She would like to start from scratch but Dad
+     has said that objective could be achieved without starting from
+     scratch.
+
+   Long-term vision might be to level and start over for a multitude
+   of reasons.
+
+   Other ideas to generate income includes selling piece of property
+   adjacent to the cottage (to a family member).
+
+   Original purpose was to have retirement income, pay off loans,
+   etc.  Currently believe that we would take a loss if we sold now
+   and so as a consequence, want to hold and leverage the inherant
+   value of the property.
+
+** Dad
+
+   Want to maximize the value of the property (equity) and hold onto
+   the property.
+
+   Want to provide opportunity to kids to own equity
+
+   + Build another house???
+   + Subdivide property to increase aggregate value of property.
+     Would only sell to another member of the family.
+
+** Sara
+
+   Need to modernize.
+
+   Personally, want say in aesthetics.
+
+   Biggest concern is whether there's anyone in Maryland and whether
+   we can put in the time, motivation to manage this.
+
+   Break even and subsequently positive NPV.
+
+** Trevor
+
+   Break even and subsequently positive NPV.
+
+   Professional photographer, rate structure changes
+
+** Adam
+
+   Break even and subsequently positive NPV.
+
+   What is the one year plan?
+
+** Peter/Kelsey
+
+   For this meeting...
+
+   Create incentive structure for each person/unit in the group to
+   achieve consensus objectives.
+
+   Assuming that this is achieved, everyone needs to be assigned an
+   area in which they can focus their efforts and action items for
+   each individual/unit should be developed.
+
+   Follow up meetings can be held purely to evolve these lists,
+   iterate around the specific details of the objectives, and to keep
+   everyone accountable/engaged.
+
+   Three step plan (yet to implement):
+   1. Break even month-to-month (1 Yr horizon)
+   2. Positive NPV (2 Yr horizon)
+   3. Iterate around, enhance, and optimize NPV (Long-term)
+
+* Working Group
+
+  Consists of general partners and limited partners.  Mom/Dad would be
+  initial general partners.
+
+  All partners committed to injection of "sweat equity" and/or
+  financial equity.
+
+  Annual in-person meeting (at the cottage).  Fall?  Move 'so
+  immersive' that would likely not be able to happen until then.
+
+** Incentive Structure
+
+   Incentive should be a function of overall NPV.  Given a positive
+   NPV month-to-month, this should then be allocatted to reinvestment
+   with expectation of incremental returns and to partners as bonus.
+
+   Current incentives go to general partners and are discretionally
+   split up.
+
+** Decision Making
+   First, want to define what a decision constitutes in the context of
+   the group.
+** Focus Areas
+*** Marketing: Trevor
+*** Pricing: Adam, Peter
+*** Sales/Customer Relations: Trevor
+*** Finances: Peter, Mom/Dad
+*** Operations: Dad
+*** Projects: Sara/Mom
+*** IT/Reservation Management: Adam/Trevor
+*** Legal/Risk: Peter
+* Ground Rules
+
+  1. Nothing is personal.  Don't take anything personally.
+
+* Operational Upkeep Notes
+
+  Easter break (10 days) typically spent focused on getting the
+  cottage in shape for the summer season.
+
+  Painting last spring after having done renovations associated with
+  the heating infrastructure.
+
+  Mom's new job may prevent her from spending the normal amount of
+  time doing operational upkeep.
+     
+  Despite this, house is in better shape than it has been in years
+  past.  Mainly due to Sara's efforts to help while Mom working last
+  spring.
+
+  50 man-days dedicated to operational upkeep (estimate).
+
+* Extrafammilial Personnel
+
+  + Dennis (lawnmower)
+  + Painter
+  + Plumber
+  + Electrician
+  + Tracy (cleaning lady)
+  + Phil Jones (neighbor)
+  + Tracy's husband Kevin (odd jobs)
+  + Pool guy
+
+* Tax Concerns
+
+  Currently primary residence, could sell property to LLC incorporated
+  in the state of Maryland.
+
+  Capital gains taxes looming if property sold
+
+  Primary residence
+
+* Valuation Notes
+
+  2011 Appraisal value of $600,000
+
+  Have refinanced several times.  
+
+* Q&A
+
+  + What was the principal on the mortgage?
+  + What is the current state of the mortgage (outstanding balance,
+    interest rates, lender(s), etc)?
+    + Owe about $500k currently
+  + What is current monthly mortgage expense?
+    + $3000
+
+* TODO Action Items for all Focus Czars
+
