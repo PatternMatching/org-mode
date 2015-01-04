@@ -187,5 +187,15 @@
   + What is current monthly mortgage expense?
     + $3000
 
-* TODO Action Items for all Focus Czars
-
+* TO-DO's
+** TODO Action Items for all Focus Czars
+** Finance
+*** TODO Retrieve electronic copies of all bills qualifying as expenses (assume these are kept for tax purposes)
+*** TODO Begin to track revenues and expenses in a cloud-based spreadsheet
+*** TODO Hypothetical forward view of expected PnL based on historical bookings
+** Legal/Risk
+*** TODO Look into incorporation, create pros and cons list for each type of legal entity
+*** TODO Other legal structures to mitigate risk, protect "shareholders"?
+** Pricing
+*** TODO How are we going to dynamically adjust price to optimize bookings?
+Can we implement this right away?  Need to know price floor which is a function of expenses.
