@@ -2,45 +2,41 @@
 #+AUTHOR:    Peter Hennings
 #+EMAIL:     phennings AT gmail DOT com
 
-* Sun Aug 16, 2015
+* Mon Aug 24, 2015
 ** Breakfast
-+ Kefir, bananas, strawberries
++ Kefir, banana, berries
 ** Lunch
-+ Burger w/ swiss cheese, dijon mustard and 
++ Leftover chili
 ** Dinner
-+ Lamb with rosemary
-+ Grilled squash, carrots
-+ Spinach, feta, tomato, raspberry vinegrette
-* Mon Aug 17, 2015
++ Lamb burgers with argula, tzatzki
++ Carrot fries
+* Tues Aug 25, 2015
 ** Breakfast
-+ Kefir, bananas, berries
++ Kefir, banana, berries
 ** Lunch
-+ Leftover lamb, veggies
 ** Dinner
-+ Pork Tenderloin
-+ Roasted spaghetti squash
-+ Caesar salad
-* Tues Aug 18, 2015
++ Spiced Pork and butternut squash
++ Collard greens
+* Wed Aug 26, 2015
+** Breakfast
++ Kefir, banana, berries
+** Lunch
 ** Dinner
-+ Grilled chicken w/ pesto
-+ Insalata Caprese
-+ Eggplant puree
-* Wed Aug 19, 2015
-** Dinner
-+ Fish with lime butter
-+ Bok choy
-+ Carrots w/ harissa
-* Thurs Aug 20, 2015
-** Dinner
-+ Pork chops
++ Harissa Roast Chicken
++ Green beans
 + Celeriac hash
-+ Kale
-* Fri Aug 21, 2015
+* Thurs Aug 27, 2015
+** Dinner
++ Spicy red snapper
++ Bok choy
++ Carrot and ginger soup
+* Fri Aug 28, 2015
 ** Dinner
 Eating out
-* Sat Aug 22, 2015
+* Sat Aug 29, 2015
 ** Dinner
-+ Beef brisket
-+ Cucumber and tomato salad
-* Sun Aug 23, 2015
-+ Beef heart chili
++ Steaks
++ Spinach
++ Acorn squash
+* Sun Aug 30, 2015 - St. Michaels
+** Dinner
